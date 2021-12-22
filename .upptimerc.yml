@@ -12,7 +12,7 @@ sites:
   - name: SaaS - Remove Unused CSS generation service (CPCSS)
     url: https://central-saas.wp-rocket.me/
   - name: SaaS - Critical Path CSS generation service (CPCSS)
-    url: https://cpcss.wp-rocket.me/
+    url: https://cpcss.wp-rocket.me/ui
   - name: Imagify.io
     url: https://imagify.io/
 
