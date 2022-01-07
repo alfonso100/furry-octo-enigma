@@ -60,19 +60,19 @@
     "url": "https://central-saas.wp-rocket.me/",
     "icon": "https://favicons.githubusercontent.com/central-saas.wp-rocket.me",
     "slug": "saa-s-remove-unused-css-generation-service-cpcss",
-    "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "87.57%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "99.21%",
-    "time": 5465,
-    "timeDay": 9519,
-    "timeWeek": 7707,
-    "timeMonth": 5465,
-    "timeYear": 5465,
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "88.42%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.26%",
+    "time": 5575,
+    "timeDay": 9538,
+    "timeWeek": 7785,
+    "timeMonth": 5575,
+    "timeYear": 5575,
     "dailyMinutesDown": {
-      "2022-01-07": 179
+      "2022-01-07": 167
     }
   },
   {
