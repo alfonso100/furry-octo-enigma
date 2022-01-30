@@ -45,9 +45,9 @@
     "url": "https://rocketcdn.me/",
     "icon": "https://favicons.githubusercontent.com/rocketcdn.me",
     "slug": "rocket-cdn-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +56,9 @@
     "timeWeek": 653,
     "timeMonth": 630,
     "timeYear": 634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-30": 0
+    }
   },
   {
     "name": "SaaS - Remove Unused CSS generation service (CPCSS)",
