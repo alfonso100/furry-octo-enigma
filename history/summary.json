@@ -69,12 +69,12 @@
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.54%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 3558,
     "timeDay": 161,
     "timeWeek": 215,
-    "timeMonth": 4579,
+    "timeMonth": 971,
     "timeYear": 3558,
     "dailyMinutesDown": {
       "2022-01-07": 201
@@ -85,9 +85,9 @@
     "url": "https://cpcss.wp-rocket.me/ui",
     "icon": "https://favicons.githubusercontent.com/cpcss.wp-rocket.me",
     "slug": "saa-s-critical-path-css-generation-service-cpcss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -97,6 +97,7 @@
     "timeMonth": 624,
     "timeYear": 553,
     "dailyMinutesDown": {
+      "2022-02-07": 0,
       "2021-12-22": 21
     }
   },
